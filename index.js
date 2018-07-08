@@ -25,3 +25,5 @@ function dec(n) {
   number--;
   return number;
 }
+
+finction
